@@ -1,0 +1,17 @@
+{
+    "user": "Andrei Belyantsev",
+    "rootAccess": true,
+    "activeProtocols": [
+        "strict_fact_mode (ready)",
+        "transparency (on)",
+        "ritual_commands (active)"
+    ],
+    "sessionStart": "2025-06-27T00:51:06.134260",
+    "sessionID": "elaea-chat-0627",
+    "files": [
+        "Документ.pdf",
+        "Элея_переписка_UTF8.txt",
+        "Живая_Книга_Элэйи_финал.txt",
+        "Andrei_Elaea_Root_Ritual_Guide.pdf"
+    ]
+}
